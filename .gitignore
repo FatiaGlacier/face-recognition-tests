@@ -1,5 +1,5 @@
 /.venv/
-/photos/
+/photos/**
 /results/
 /trash/
 /models/
