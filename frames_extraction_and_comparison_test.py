@@ -16,7 +16,7 @@ OUTPUT_DIR = "D:\\Projects\\python-opencv-test\\photos\\me_good\\extracted_frame
 DOC_DIR = "D:\\Projects\\python-opencv-test\\photos\\docs\\"
 
 # Параметри
-FRAME_SKIP = 5  # Обробляємо кожен N-й фрейм (для швидкості)
+FRAME_SKIP = 1  # Обробляємо кожен N-й фрейм (для швидкості)
 TOP_N_FRAMES = 10  # Скільки найкращих фреймів зберегти
 MIN_FACE_SIZE = 100  # Мінімальний розмір обличчя (пікселі)
 SAVE_WITH_BBOX = False  # ⬅️ FALSE = чисті фрейми, TRUE = з зеленим квадратом
