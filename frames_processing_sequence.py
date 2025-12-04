@@ -7,10 +7,6 @@ from mtcnn import MTCNN
 import os
 from tqdm import tqdm
 
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from threading import Lock
-import time
-
 # ============================================================================
 # КОНФІГУРАЦІЯ
 # ============================================================================
@@ -30,12 +26,6 @@ SAVE_FULL_FRAME = True  # ⬅️ TRUE = весь кадр, FALSE = тільки 
 MAX_PITCH = 20#15  # ±15° вгору/вниз (менше = строгіше)
 MAX_YAW = 20#20  # ±20° вліво/вправо
 MAX_ROLL = 20#15  # ±15° нахил голови
-
-detector_lock = Lock()
-
-# Налаштування threading
-NUM_WORKERS = 7  # Або os.cpu_count()
-CHUNK_SIZE = 43  # Фреймів на chunk
 
 # ============================================================================
 # ФУНКЦІЇ
@@ -532,238 +522,6 @@ def process_all_videos():
     frames_dir = OUTPUT_DIR + video_name
     return frames_dir
 
-#================================================================================================================================================================================================
-#================================================================================================================================================================================================
-#================================================================================================================================================================================================
-
-def process_chunk(frames_chunk, chunk_start_idx, detector, chunk_id):
-    """
-    Обробляє один chunk фреймів
-    """
-    chunk_results = []
-
-    # Прогрес-бар для цього chunk
-    desc = f"Worker {chunk_id}"
-
-    for local_idx, frame in enumerate(tqdm(frames_chunk, desc=desc, position=chunk_id, leave=False)):
-        frame_number = chunk_start_idx + local_idx
-
-        detections = detector.detect_faces(frame)
-
-        if len(detections) == 0:
-            continue
-
-        largest_face = max(detections, key=lambda d: d['box'][2] * d['box'][3])
-        face_box = largest_face['box']
-        x, y, w, h = face_box
-
-        # Фільтруємо занадто маленькі обличчя
-        if w < MIN_FACE_SIZE or h < MIN_FACE_SIZE:
-            continue
-
-        # Розраховуємо якість (БЕЗ lock - швидко)
-        quality, details = calculate_quality_score(frame, largest_face)
-
-        # Фільтр по pose
-        if not details['is_frontal']:
-            continue
-
-        chunk_results.append({
-            'frame_number': frame_number,
-            'frame': frame.copy(),
-            'face_box': face_box,
-            'quality_score': quality,
-            'sharpness': details['sharpness'],
-            'brightness': details['brightness'],
-            'contrast': details['contrast'],
-            'pitch': details['pitch'],
-            'yaw': details['yaw'],
-            'roll': details['roll'],
-            'confidence': largest_face['confidence'],
-            'details': details
-        })
-
-    return chunk_results
-
-
-def process_frames_multithreaded(frames, detector, video_name):
-    """
-    Обробляє фрейми з багатопотоковістю
-    """
-    print(f"\n{'=' * 80}")
-    print(f"📹 Обробка фреймів (MULTITHREADED): {video_name}")
-    print(f"{'=' * 80}")
-    print(f"   Всього фреймів: {len(frames)}")
-    print(f"   Воркерів: {NUM_WORKERS}")
-    print(f"   Chunk size: {CHUNK_SIZE}")
-
-    start_time = time.time()
-
-    # Розбиваємо на chunks
-    chunks = []
-    for i in range(0, len(frames), CHUNK_SIZE):
-        chunk = frames[i:i + CHUNK_SIZE]
-        chunks.append((chunk, i))  # (frames, start_index)
-
-    print(f"   Chunks: {len(chunks)}")
-    print(f"\n🚀 Запуск обробки...")
-
-    # Багатопотокова обробка
-    all_results = []
-
-    with ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
-        # Submit всі chunks
-        futures = {}
-        for chunk_id, (chunk, start_idx) in enumerate(chunks):
-            future = executor.submit(process_chunk, chunk, start_idx, detector, chunk_id)
-            futures[future] = chunk_id
-
-        # Збираємо результати по мірі завершення
-        completed = 0
-        for future in as_completed(futures):
-            chunk_id = futures[future]
-            try:
-                chunk_results = future.result()
-                all_results.extend(chunk_results)
-                completed += 1
-                # print(f"   ✓ Chunk {chunk_id} done ({completed}/{len(chunks)})")
-            except Exception as e:
-                print(f"   ✗ Chunk {chunk_id} failed: {e}")
-
-    processing_time = time.time() - start_time
-
-    print(f"\n✅ Обробка завершена за {processing_time:.2f} секунд")
-    print(f"   Швидкість: {len(frames) / processing_time:.1f} фреймів/сек")
-    print(f"   Знайдено фронтальних облич: {len(all_results)}")
-
-    if len(all_results) == 0:
-        print("❌ Не знайдено жодного ФРОНТАЛЬНОГО обличчя у відео!")
-        print(f"⚠️  Спробуй збільшити пороги: MAX_PITCH, MAX_YAW, MAX_ROLL")
-        return []
-
-    return all_results
-
-
-def process_all_videos_threading():
-    """
-    Обробляє всі відео з директорії (з таймінгами)
-    """
-    print("=" * 80)
-    print("VIDEO FRAME EXTRACTOR - MULTITHREADED MODE")
-    print("=" * 80)
-    print(f"⚙️  Налаштування:")
-    print(f"   Save with BBox: {SAVE_WITH_BBOX}")
-    print(f"   Save full frame: {SAVE_FULL_FRAME}")
-    print(f"   Workers: {NUM_WORKERS}")
-    print(f"   Chunk size: {CHUNK_SIZE}")
-    print("=" * 80)
-
-    # Створюємо output директорію
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-    # Ініціалізуємо детектор (РАЗ!)
-    print("\n🔧 Ініціалізація MTCNN...")
-    init_start = time.time()
-    detector = initialize_detector()
-    init_time = time.time() - init_start
-    print(f"✅ MTCNN готовий ({init_time:.2f} сек)")
-
-    # Знаходимо всі відео файли
-    video_extensions = {'.mp4', '.avi', '.mov', '.mkv', '.flv', '.wmv'}
-    video_dir = Path(VIDEO_DIR)
-
-    if not video_dir.exists():
-        print(f"❌ Директорія не існує: {VIDEO_DIR}")
-        return
-
-    video_files = [f for f in video_dir.iterdir()
-                   if f.is_file() and f.suffix.lower() in video_extensions]
-
-    if len(video_files) == 0:
-        print(f"❌ Не знайдено відео файлів в: {VIDEO_DIR}")
-        return
-
-    print(f"\n📁 Знайдено відео файлів: {len(video_files)}")
-    for video_file in video_files:
-        print(f"   - {video_file.name}")
-
-    # Обробляємо кожне відео
-    total_start_time = time.time()
-    video_name = None
-
-    for video_file in video_files:
-        video_name = video_file.stem
-        video_start_time = time.time()
-
-        # ============== ФАЗА 1: ЧИТАННЯ ==============
-        print(f"\n{'=' * 80}")
-        print(f"📼 ВІДЕО: {video_name}")
-        print(f"{'=' * 80}")
-
-        read_start = time.time()
-        frames, count = extract_frames(str(video_file), video_name)
-        read_time = time.time() - read_start
-
-        print(f"\n⏱️  Читання: {read_time:.2f} сек")
-        print(f"   Прочитано фреймів: {len(frames)}")
-
-        # ============== ФАЗА 2: ОБРОБКА ==============
-        process_start = time.time()
-        frame_data = process_frames_multithreaded(frames, detector, video_name)
-        process_time = time.time() - process_start
-
-        print(f"\n⏱️  Обробка: {process_time:.2f} сек")
-
-        if len(frame_data) == 0:
-            print("⚠️  Пропускаємо відео - немає результатів")
-            continue
-
-        # ============== ФАЗА 3: СОРТУВАННЯ ==============
-        sort_start = time.time()
-        frame_data.sort(key=lambda x: x['quality_score'], reverse=True)
-        best_frames = frame_data[:TOP_N_FRAMES]
-        sort_time = time.time() - sort_start
-
-        print(f"\n⏱️  Сортування: {sort_time:.3f} сек")
-        print(f"   Топ-{TOP_N_FRAMES} вибрано")
-
-        # ============== ФАЗА 4: ЗБЕРЕЖЕННЯ ==============
-        save_start = time.time()
-        video_output_folder = os.path.join(OUTPUT_DIR, video_name)
-        os.makedirs(video_output_folder, exist_ok=True)
-        save_frames(best_frames, video_output_folder, video_name)
-        save_time = time.time() - save_start
-
-        print(f"\n⏱️  Збереження: {save_time:.2f} сек")
-
-        # ============== ПІДСУМОК ПО ВІДЕО ==============
-        video_total_time = time.time() - video_start_time
-
-        print(f"\n{'=' * 80}")
-        print(f"⏱️  ПІДСУМОК ПО ВІДЕО '{video_name}':")
-        print(f"{'=' * 80}")
-        print(f"   Читання:     {read_time:>8.2f} сек ({read_time / video_total_time * 100:>5.1f}%)")
-        print(f"   Обробка:     {process_time:>8.2f} сек ({process_time / video_total_time * 100:>5.1f}%)")
-        print(f"   Сортування:  {sort_time:>8.2f} сек ({sort_time / video_total_time * 100:>5.1f}%)")
-        print(f"   Збереження:  {save_time:>8.2f} сек ({save_time / video_total_time * 100:>5.1f}%)")
-        print(f"   {'─' * 40}")
-        print(f"   ЗАГАЛЬНО:    {video_total_time:>8.2f} сек")
-        print(f"{'=' * 80}")
-
-    # ============== ЗАГАЛЬНИЙ ПІДСУМОК ==============
-    total_time = time.time() - total_start_time
-
-    print(f"\n{'=' * 80}")
-    print("✅ ВСІ ВІДЕО ОБРОБЛЕНО")
-    print(f"{'=' * 80}")
-    print(f"⏱️  Загальний час: {total_time:.2f} секунд")
-    print(f"📂 Результати збережено в: {OUTPUT_DIR}")
-    print(f"{'=' * 80}")
-
-    frames_dir = os.path.join(OUTPUT_DIR, video_name) if video_name else OUTPUT_DIR
-    return frames_dir
-
-
 # ============================================================================
 # ФУНКЦІЇ ДЛЯ РОБОТИ З EMBEDDINGS
 # ============================================================================
@@ -895,7 +653,7 @@ def recognition(doc_dir, frames_dir):
         compare_and_print(doc_name, doc_enc, frames_encodings, "Frames", "ArcFace")
 
 def get_frames_and_compare():
-    DIR_FRAMES = process_all_videos_threading() #process_all_videos()
+    DIR_FRAMES = process_all_videos()
     #recognition(DOC_DIR, DIR_FRAMES)
 
 # ============================================================================
