@@ -1,7 +1,9 @@
 /.venv/
-/photos/**
+/photos/
 /results/
 /trash/
+/not_sorted/
+/not_sorted/
 /models/
 .idea/
 *.pyc
