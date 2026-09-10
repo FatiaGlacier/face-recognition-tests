@@ -5,7 +5,7 @@ A test repository for selecting face recognition models and comparison methods f
 ## Structure
 
 - `test_1/` — pilot comparison of 5 DeepFace models on a small dataset
-- `facial_rotation_response_test/` — model sensitivity to head rotation/tilt angles
+- `test_2/` — model sensitivity to head rotation/tilt angles small test
 
 Each test includes its own README describing the methodology and results.
 
