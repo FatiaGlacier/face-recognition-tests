@@ -1,0 +1,158 @@
+================================================================================
+IMAGES LOADING
+================================================================================
+
+📄 Targets found: 2
+  - center
+  - photo_id
+
+📸 Images found (source): 9
+  - center
+  - down_15
+  - down_30
+  - left_30
+  - left_45
+  - right_30
+  - right_45
+  - up_15
+  - up_30
+
+================================================================================
+TEST 1: Testing FaceNet512
+================================================================================
+
+🔄 Image processing FaceNet512...
+[!] Exception down_30.jpg (FaceNet512): Face could not be detected.
+
+================================================================================
+RESULTS: FaceNet512
+================================================================================
+
+center vs center: dist=0.0000 | raw=1.0000
+center vs right_30: dist=0.0595 | raw=0.9405
+center vs left_30: dist=0.0725 | raw=0.9275
+center vs down_15: dist=0.0778 | raw=0.9222
+center vs up_15: dist=0.1226 | raw=0.8774
+center vs right_45: dist=0.1280 | raw=0.8720
+center vs left_45: dist=0.1552 | raw=0.8448
+photo_id vs right_30: dist=0.2291 | raw=0.7709
+photo_id vs up_15: dist=0.2508 | raw=0.7492
+photo_id vs center: dist=0.2602 | raw=0.7398
+photo_id vs down_15: dist=0.2724 | raw=0.7276
+photo_id vs left_30: dist=0.2732 | raw=0.7268
+photo_id vs right_45: dist=0.3157 | raw=0.6843
+photo_id vs left_45: dist=0.4179 | raw=0.5821
+photo_id vs up_30: dist=0.5385 | raw=0.4615
+center vs up_30: dist=0.6101 | raw=0.3899
+
+================================================================================
+TEST 2: Testing ArcFace
+================================================================================
+
+🔄 Image processing ArcFace...
+[!] Exception down_30.jpg (ArcFace): Face could not be detected.
+
+================================================================================
+RESULTS: ArcFace
+================================================================================
+
+center vs center: dist=-0.0000 | raw=1.0000
+center vs down_15: dist=0.0966 | raw=0.9034
+center vs right_30: dist=0.1093 | raw=0.8907
+center vs left_30: dist=0.1499 | raw=0.8501
+center vs up_15: dist=0.1685 | raw=0.8315
+center vs left_45: dist=0.1904 | raw=0.8096
+center vs right_45: dist=0.2495 | raw=0.7505
+photo_id vs center: dist=0.3300 | raw=0.6700
+photo_id vs right_30: dist=0.3476 | raw=0.6524
+photo_id vs down_15: dist=0.4125 | raw=0.5875
+photo_id vs left_45: dist=0.4289 | raw=0.5711
+photo_id vs up_15: dist=0.4361 | raw=0.5639
+photo_id vs left_30: dist=0.4694 | raw=0.5306
+photo_id vs right_45: dist=0.5178 | raw=0.4822
+center vs up_30: dist=0.6242 | raw=0.3758
+photo_id vs up_30: dist=0.7575 | raw=0.2425
+
+================================================================================
+TEST 3: Testing Facenet
+================================================================================
+
+🔄 Image processing Facenet...
+[!] Exception down_30.jpg (Facenet): Face could not be detected.
+
+================================================================================
+RESULTS: Facenet
+================================================================================
+
+center vs center: dist=0.0000 | raw=1.0000
+center vs down_15: dist=0.0481 | raw=0.9519
+center vs left_30: dist=0.0503 | raw=0.9497
+center vs right_30: dist=0.0546 | raw=0.9454
+center vs up_15: dist=0.1190 | raw=0.8810
+center vs right_45: dist=0.1585 | raw=0.8415
+center vs left_45: dist=0.1904 | raw=0.8096
+photo_id vs center: dist=0.2732 | raw=0.7268
+photo_id vs down_15: dist=0.2756 | raw=0.7244
+photo_id vs right_30: dist=0.2805 | raw=0.7195
+photo_id vs up_15: dist=0.2818 | raw=0.7182
+photo_id vs left_30: dist=0.3150 | raw=0.6850
+photo_id vs right_45: dist=0.3831 | raw=0.6169
+photo_id vs left_45: dist=0.4500 | raw=0.5500
+center vs up_30: dist=0.6075 | raw=0.3925
+photo_id vs up_30: dist=0.7189 | raw=0.2811
+
+================================================================================
+TEST 4: Testing VGG-Face
+================================================================================
+
+🔄 Image processing VGG-Face...
+[!] Exception down_30.jpg (VGG-Face): Face could not be detected.
+
+================================================================================
+RESULTS: VGG-Face
+================================================================================
+
+center vs center: dist=0.0000 | raw=1.0000
+center vs right_30: dist=0.1213 | raw=0.8787
+center vs left_30: dist=0.1314 | raw=0.8686
+center vs down_15: dist=0.1398 | raw=0.8602
+center vs up_15: dist=0.2183 | raw=0.7817
+center vs right_45: dist=0.2422 | raw=0.7578
+center vs left_45: dist=0.2543 | raw=0.7457
+photo_id vs right_45: dist=0.4751 | raw=0.5249
+photo_id vs right_30: dist=0.5187 | raw=0.4813
+photo_id vs up_15: dist=0.5416 | raw=0.4584
+photo_id vs center: dist=0.5688 | raw=0.4312
+center vs up_30: dist=0.5849 | raw=0.4151
+photo_id vs left_30: dist=0.6032 | raw=0.3968
+photo_id vs down_15: dist=0.6172 | raw=0.3828
+photo_id vs left_45: dist=0.6403 | raw=0.3597
+photo_id vs up_30: dist=0.7086 | raw=0.2914
+
+================================================================================
+TEST 5: Testing Dlib
+================================================================================
+
+🔄 Image processing Dlib...
+[!] Exception down_30.jpg (Dlib): Face could not be detected.
+
+================================================================================
+RESULTS: Dlib
+================================================================================
+
+center vs center: dist=0.0000 | raw=1.0000
+center vs down_15: dist=0.0065 | raw=0.9935
+center vs right_30: dist=0.0131 | raw=0.9869
+center vs left_30: dist=0.0187 | raw=0.9813
+center vs up_15: dist=0.0289 | raw=0.9711
+center vs right_45: dist=0.0376 | raw=0.9624
+center vs left_45: dist=0.0383 | raw=0.9617
+photo_id vs down_15: dist=0.0526 | raw=0.9474
+photo_id vs left_30: dist=0.0532 | raw=0.9468
+photo_id vs left_45: dist=0.0580 | raw=0.9420
+photo_id vs right_30: dist=0.0606 | raw=0.9394
+photo_id vs center: dist=0.0609 | raw=0.9391
+photo_id vs up_15: dist=0.0630 | raw=0.9370
+photo_id vs right_45: dist=0.0703 | raw=0.9297
+center vs up_30: dist=0.0799 | raw=0.9201
+photo_id vs up_30: dist=0.1029 | raw=0.8971
