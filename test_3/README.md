@@ -14,9 +14,9 @@ This experiment forms the basis of a script for preparing data to test the respo
 - Frames grouped into approximately 1-degree angle intervals
 - For each target angle, the frame with the lowest influence from the other two axes was selected
 - Influence for each axis:
--- Pitch test: score = |yaw| + |roll|
--- Yaw test: score = |pitch| + |roll|
--- Roll test: score = |pitch| + |yaw|
+    - Pitch test: score = |yaw| + |roll|
+    - Yaw test: score = |pitch| + |roll|
+    - Roll test: score = |pitch| + |yaw|
 
 ## What is being tested
 
