@@ -3,11 +3,17 @@ import os
 import cv2
 from pathlib import Path
 from sixdrepnet import SixDRepNet
-import math
+import json
 
 DIR = "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\small_video_test\\frames"
 
 model = SixDRepNet(gpu_id=-1)
+
+DATA = {
+    "1":[], # pitch test
+    "2":[], # yaw test
+    "3":[]  # roll test
+}
 
 def load_images_from_folder(folder_path):
     """Loads all images from folder"""
@@ -21,7 +27,7 @@ def load_images_from_folder(folder_path):
 
     for file in folder.iterdir():
         if file.is_file() and file.suffix.lower() in valid_extensions:
-            images[file.stem] = str(file)
+            images[file.stem] = str(file)#
 
     return images
 
@@ -179,6 +185,40 @@ def get_best_for_step_by(data, index, step=1):
         return get_best_for_step_by_yaw(data, step)
     if(index == 3):
         return get_best_for_step_by_roll(data, step)
+
+def save_json(best_pitch, best_yaw, best_roll):
+    for img, pitch, yaw, roll, score in best_pitch:
+        DATA["1"].append({
+            "img": img,
+            "pitch": pitch,
+            "yaw": yaw,
+            "roll": roll,
+            "score": score
+        })
+
+    for img, pitch, yaw, roll, score in best_yaw:
+            DATA["2"].append({
+                "img": img,
+                "pitch": pitch,
+                "yaw": yaw,
+                "roll": roll,
+                "score": score
+            })
+
+    for img, pitch, yaw, roll, score in best_roll:
+            DATA["3"].append({
+                "img": img,
+                "pitch": pitch,
+                "yaw": yaw,
+                "roll": roll,
+                "score": score
+            })
+    
+    with open("results.json", "w") as f:
+        json.dump(DATA, f, indent=4)
+
+
+
 # ============================================================================
 # MAIN PROGRAM
 # ============================================================================
@@ -223,3 +263,5 @@ print("=" * 80)
 sort_by(results, 3)
 best_roll = get_best_for_step_by(results, 3)
 print_results(best_roll)
+
+save_json(best_pitch, best_yaw, best_roll)
