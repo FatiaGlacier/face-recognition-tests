@@ -27,7 +27,7 @@ def load_images_from_folder(folder_path):
 
     for file in folder.iterdir():
         if file.is_file() and file.suffix.lower() in valid_extensions:
-            images[file.stem] = str(file)#
+            images[file.name] = str(file)
 
     return images
 
