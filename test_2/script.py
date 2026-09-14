@@ -111,7 +111,6 @@ def print_results(res):
     for i in range(n):
         result_str = format_result(res[i][0], res[i][1], res[i][2], res[i][3], res[i][4])
         print(result_str)
-    
 
 def sort_by_raw(res):
     n = len(res)

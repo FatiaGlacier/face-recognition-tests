@@ -76,13 +76,6 @@ TEST 2: Testing ArcFace
 RESULTS: ArcFace
 ================================================================================
 
-COMPARING: center vs me [ArcFace]
-
-COMPARING: photo_id vs me [ArcFace]
-
-COMPARING: center vs not_me [ArcFace]
-
-COMPARING: photo_id vs not_me [ArcFace]
 center vs center : dist=-0.0000 | raw=1.0000 | (me)
 center vs down_15 : dist=0.0966 | raw=0.9034 | (me)
 center vs right_30 : dist=0.1093 | raw=0.8907 | (me)
