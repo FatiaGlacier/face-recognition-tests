@@ -1,0 +1,2173 @@
+{
+    "1": [
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01374.jpg",
+            "pitch": -57.25537109375,
+            "yaw": 6.131058216094971,
+            "roll": -0.8446171283721924,
+            "score": 6.975675344467163
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01372.jpg",
+            "pitch": -55.55209732055664,
+            "yaw": 8.821846961975098,
+            "roll": -0.01282187458127737,
+            "score": 8.834668836556375
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00664.jpg",
+            "pitch": -54.52054214477539,
+            "yaw": 4.106651306152344,
+            "roll": 0.047902703285217285,
+            "score": 4.154554009437561
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00675.jpg",
+            "pitch": -53.601566314697266,
+            "yaw": 4.193840980529785,
+            "roll": 0.0007255328237079084,
+            "score": 4.194566513353493
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00676.jpg",
+            "pitch": -52.581119537353516,
+            "yaw": 3.462547540664673,
+            "roll": 0.14690817892551422,
+            "score": 3.609455719590187
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00677.jpg",
+            "pitch": -52.069339752197266,
+            "yaw": 4.215457439422607,
+            "roll": -0.35242435336112976,
+            "score": 4.567881792783737
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00680.jpg",
+            "pitch": -50.78824996948242,
+            "yaw": 3.5289504528045654,
+            "roll": 0.3590988218784332,
+            "score": 3.8880492746829987
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00681.jpg",
+            "pitch": -50.20484924316406,
+            "yaw": 3.701972246170044,
+            "roll": -0.15038177371025085,
+            "score": 3.852354019880295
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00625.jpg",
+            "pitch": -49.12218475341797,
+            "yaw": 2.3001575469970703,
+            "roll": -1.3467862606048584,
+            "score": 3.6469438076019287
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00624.jpg",
+            "pitch": -48.356971740722656,
+            "yaw": 2.089155912399292,
+            "roll": -1.247806429862976,
+            "score": 3.336962342262268
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00622.jpg",
+            "pitch": -47.41299057006836,
+            "yaw": 2.6692311763763428,
+            "roll": -1.7738529443740845,
+            "score": 4.443084120750427
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00693.jpg",
+            "pitch": -45.65771484375,
+            "yaw": 2.7009077072143555,
+            "roll": -2.59820818901062,
+            "score": 5.299115896224976
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01388.jpg",
+            "pitch": -45.146697998046875,
+            "yaw": 2.2037692070007324,
+            "roll": -2.7489562034606934,
+            "score": 4.952725410461426
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01389.jpg",
+            "pitch": -44.465126037597656,
+            "yaw": 2.2661945819854736,
+            "roll": -3.4215173721313477,
+            "score": 5.687711954116821
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00591.jpg",
+            "pitch": -42.61094665527344,
+            "yaw": 3.315537691116333,
+            "roll": -1.9323461055755615,
+            "score": 5.2478837966918945
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00590.jpg",
+            "pitch": -42.3464241027832,
+            "yaw": 3.3775687217712402,
+            "roll": -1.966932773590088,
+            "score": 5.344501495361328
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00587.jpg",
+            "pitch": -41.45781707763672,
+            "yaw": 3.0182716846466064,
+            "roll": -2.2016656398773193,
+            "score": 5.219937324523926
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00713.jpg",
+            "pitch": -40.28981018066406,
+            "yaw": 3.4721150398254395,
+            "roll": -1.5053558349609375,
+            "score": 4.977470874786377
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00717.jpg",
+            "pitch": -39.05031204223633,
+            "yaw": 3.54803204536438,
+            "roll": -1.595705509185791,
+            "score": 5.143737554550171
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00718.jpg",
+            "pitch": -38.47264862060547,
+            "yaw": 3.1237120628356934,
+            "roll": -1.5486162900924683,
+            "score": 4.672328352928162
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00722.jpg",
+            "pitch": -37.409400939941406,
+            "yaw": 2.971393346786499,
+            "roll": -1.7945607900619507,
+            "score": 4.76595413684845
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01285.jpg",
+            "pitch": -35.97652816772461,
+            "yaw": 4.089261531829834,
+            "roll": -1.105750322341919,
+            "score": 5.195011854171753
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00550.jpg",
+            "pitch": -34.761653900146484,
+            "yaw": 4.688196659088135,
+            "roll": -0.3333098888397217,
+            "score": 5.0215065479278564
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00725.jpg",
+            "pitch": -33.75728988647461,
+            "yaw": 3.2111053466796875,
+            "roll": -1.2840336561203003,
+            "score": 4.495139002799988
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00727.jpg",
+            "pitch": -33.268157958984375,
+            "yaw": 3.5857958793640137,
+            "roll": -0.9140511751174927,
+            "score": 4.499847054481506
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00543.jpg",
+            "pitch": -31.662738800048828,
+            "yaw": 3.9991610050201416,
+            "roll": 0.13754330575466156,
+            "score": 4.136704310774803
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00732.jpg",
+            "pitch": -31.173830032348633,
+            "yaw": 3.4419331550598145,
+            "roll": -0.4715964198112488,
+            "score": 3.9135295748710632
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00734.jpg",
+            "pitch": -30.07288932800293,
+            "yaw": 3.524167537689209,
+            "roll": -0.3440208435058594,
+            "score": 3.8681883811950684
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00537.jpg",
+            "pitch": -29.054285049438477,
+            "yaw": 3.4683666229248047,
+            "roll": 0.3372878134250641,
+            "score": 3.8056544363498688
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00533.jpg",
+            "pitch": -27.728527069091797,
+            "yaw": 3.2791976928710938,
+            "roll": 0.2991722822189331,
+            "score": 3.578369975090027
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00530.jpg",
+            "pitch": -26.99816131591797,
+            "yaw": 3.371199131011963,
+            "roll": 0.0994996726512909,
+            "score": 3.470698803663254
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00528.jpg",
+            "pitch": -25.600603103637695,
+            "yaw": 3.3092105388641357,
+            "roll": 0.046273306012153625,
+            "score": 3.3554838448762894
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00746.jpg",
+            "pitch": -24.548372268676758,
+            "yaw": 3.1681854724884033,
+            "roll": -0.28032156825065613,
+            "score": 3.4485070407390594
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00748.jpg",
+            "pitch": -23.845218658447266,
+            "yaw": 3.2130095958709717,
+            "roll": -0.3431036174297333,
+            "score": 3.556113213300705
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00750.jpg",
+            "pitch": -23.30476188659668,
+            "yaw": 3.309640884399414,
+            "roll": -0.057271115481853485,
+            "score": 3.3669119998812675
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00751.jpg",
+            "pitch": -22.45977020263672,
+            "yaw": 3.2505075931549072,
+            "roll": -0.09349103271961212,
+            "score": 3.3439986258745193
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00755.jpg",
+            "pitch": -20.74225616455078,
+            "yaw": 3.1495742797851562,
+            "roll": 0.14991118013858795,
+            "score": 3.299485459923744
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00756.jpg",
+            "pitch": -20.389375686645508,
+            "yaw": 3.089423179626465,
+            "roll": 0.13780824840068817,
+            "score": 3.227231428027153
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00760.jpg",
+            "pitch": -19.137466430664062,
+            "yaw": 2.851127862930298,
+            "roll": 0.06213262304663658,
+            "score": 2.9132604859769344
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00765.jpg",
+            "pitch": -17.642961502075195,
+            "yaw": 2.5666933059692383,
+            "roll": 0.04633578285574913,
+            "score": 2.6130290888249874
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00766.jpg",
+            "pitch": -17.184001922607422,
+            "yaw": 2.8204612731933594,
+            "roll": -0.06482130289077759,
+            "score": 2.885282576084137
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00768.jpg",
+            "pitch": -16.305030822753906,
+            "yaw": 2.8339428901672363,
+            "roll": -0.06673852354288101,
+            "score": 2.9006814137101173
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00774.jpg",
+            "pitch": -15.095680236816406,
+            "yaw": 2.278958797454834,
+            "roll": -0.030355503782629967,
+            "score": 2.309314301237464
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00777.jpg",
+            "pitch": -13.693944931030273,
+            "yaw": 2.1761181354522705,
+            "roll": 0.0897039845585823,
+            "score": 2.265822120010853
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00778.jpg",
+            "pitch": -13.468417167663574,
+            "yaw": 2.165214776992798,
+            "roll": -0.06850804388523102,
+            "score": 2.233722820878029
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01480.jpg",
+            "pitch": -11.6693115234375,
+            "yaw": 1.2669355869293213,
+            "roll": -0.9444192051887512,
+            "score": 2.2113547921180725
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00785.jpg",
+            "pitch": -11.454079627990723,
+            "yaw": 1.839085578918457,
+            "roll": -0.4279245436191559,
+            "score": 2.267010122537613
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01482.jpg",
+            "pitch": -10.049461364746094,
+            "yaw": 1.5030709505081177,
+            "roll": -0.721557080745697,
+            "score": 2.2246280312538147
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01485.jpg",
+            "pitch": -8.657737731933594,
+            "yaw": 1.8254075050354004,
+            "roll": -0.4234563112258911,
+            "score": 2.2488638162612915
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01487.jpg",
+            "pitch": -7.6818108558654785,
+            "yaw": 1.9575538635253906,
+            "roll": -0.6046825051307678,
+            "score": 2.5622363686561584
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01490.jpg",
+            "pitch": -6.535974025726318,
+            "yaw": 0.9774004817008972,
+            "roll": -0.3839898407459259,
+            "score": 1.3613903224468231
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01493.jpg",
+            "pitch": -5.579146862030029,
+            "yaw": 0.9553470611572266,
+            "roll": -0.2668863534927368,
+            "score": 1.2222334146499634
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01495.jpg",
+            "pitch": -4.811828136444092,
+            "yaw": 0.7738315463066101,
+            "roll": -0.384654700756073,
+            "score": 1.158486247062683
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00812.jpg",
+            "pitch": -4.155566692352295,
+            "yaw": 0.9850149154663086,
+            "roll": -0.13389743864536285,
+            "score": 1.1189123541116714
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01503.jpg",
+            "pitch": -2.813072443008423,
+            "yaw": 0.18416348099708557,
+            "roll": -0.5679138898849487,
+            "score": 0.7520773708820343
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00820.jpg",
+            "pitch": -1.571823239326477,
+            "yaw": 0.5044558644294739,
+            "roll": -0.14773432910442352,
+            "score": 0.6521901935338974
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00821.jpg",
+            "pitch": -1.3017953634262085,
+            "yaw": 0.579447329044342,
+            "roll": 0.0775703713297844,
+            "score": 0.6570177003741264
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01514.jpg",
+            "pitch": -0.13103710114955902,
+            "yaw": 0.1406768560409546,
+            "roll": -0.0036156424321234226,
+            "score": 0.144292498473078
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01523.jpg",
+            "pitch": 0.7785164713859558,
+            "yaw": 0.36203694343566895,
+            "roll": 0.41017892956733704,
+            "score": 0.772215873003006
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01533.jpg",
+            "pitch": 1.5507298707962036,
+            "yaw": 0.9658904075622559,
+            "roll": 0.8622774481773376,
+            "score": 1.8281678557395935
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01538.jpg",
+            "pitch": 2.745290756225586,
+            "yaw": 0.8677322268486023,
+            "roll": 0.9731072783470154,
+            "score": 1.8408395051956177
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01542.jpg",
+            "pitch": 3.9622037410736084,
+            "yaw": 0.8767843246459961,
+            "roll": 0.9129317402839661,
+            "score": 1.7897160649299622
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01556.jpg",
+            "pitch": 4.861751079559326,
+            "yaw": 0.9560438394546509,
+            "roll": 0.5829448103904724,
+            "score": 1.5389886498451233
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00841.jpg",
+            "pitch": 6.243778228759766,
+            "yaw": 0.6657924056053162,
+            "roll": 0.7695015072822571,
+            "score": 1.4352939128875732
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00844.jpg",
+            "pitch": 7.352429389953613,
+            "yaw": 0.843752384185791,
+            "roll": 0.8692160844802856,
+            "score": 1.7129684686660767
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00845.jpg",
+            "pitch": 7.647409915924072,
+            "yaw": 0.9926541447639465,
+            "roll": 0.9317652583122253,
+            "score": 1.9244194030761719
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00046.jpg",
+            "pitch": 9.179300308227539,
+            "yaw": 0.6766539216041565,
+            "roll": 1.3556643724441528,
+            "score": 2.0323182940483093
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00047.jpg",
+            "pitch": 9.545523643493652,
+            "yaw": 0.8974530100822449,
+            "roll": 1.3835035562515259,
+            "score": 2.2809565663337708
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01171.jpg",
+            "pitch": 10.528738021850586,
+            "yaw": 0.7420529723167419,
+            "roll": 1.650288462638855,
+            "score": 2.392341434955597
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00856.jpg",
+            "pitch": 11.836960792541504,
+            "yaw": 1.1911733150482178,
+            "roll": 1.5499626398086548,
+            "score": 2.7411359548568726
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00859.jpg",
+            "pitch": 13.242806434631348,
+            "yaw": 1.4391920566558838,
+            "roll": 1.6731114387512207,
+            "score": 3.1123034954071045
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00060.jpg",
+            "pitch": 14.043191909790039,
+            "yaw": 1.2441037893295288,
+            "roll": 1.7669661045074463,
+            "score": 3.011069893836975
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00063.jpg",
+            "pitch": 15.47972297668457,
+            "yaw": 1.157359004020691,
+            "roll": 1.438799500465393,
+            "score": 2.596158504486084
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00065.jpg",
+            "pitch": 16.329998016357422,
+            "yaw": 1.136857509613037,
+            "roll": 1.1023845672607422,
+            "score": 2.2392420768737793
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00066.jpg",
+            "pitch": 16.584430694580078,
+            "yaw": 1.0673184394836426,
+            "roll": 0.8103052377700806,
+            "score": 1.8776236772537231
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00069.jpg",
+            "pitch": 17.93022918701172,
+            "yaw": 1.1924408674240112,
+            "roll": 0.785470724105835,
+            "score": 1.9779115915298462
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00071.jpg",
+            "pitch": 19.093120574951172,
+            "yaw": 1.0336993932724,
+            "roll": 0.6428104043006897,
+            "score": 1.6765097975730896
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00072.jpg",
+            "pitch": 19.597755432128906,
+            "yaw": 0.745911180973053,
+            "roll": 0.8575352430343628,
+            "score": 1.6034464240074158
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00074.jpg",
+            "pitch": 20.87493896484375,
+            "yaw": 0.8559331297874451,
+            "roll": 0.7598292231559753,
+            "score": 1.6157623529434204
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00079.jpg",
+            "pitch": 22.206680297851562,
+            "yaw": 0.9798775911331177,
+            "roll": 0.19008374214172363,
+            "score": 1.1699613332748413
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00087.jpg",
+            "pitch": 23.233156204223633,
+            "yaw": 0.9652017951011658,
+            "roll": 0.26666614413261414,
+            "score": 1.23186793923378
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00089.jpg",
+            "pitch": 23.700395584106445,
+            "yaw": 1.1576578617095947,
+            "roll": 0.156622052192688,
+            "score": 1.3142799139022827
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00093.jpg",
+            "pitch": 25.242778778076172,
+            "yaw": 1.1687504053115845,
+            "roll": 0.07679776102304459,
+            "score": 1.245548166334629
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00097.jpg",
+            "pitch": 26.304527282714844,
+            "yaw": 0.7888774275779724,
+            "roll": 0.3857401907444,
+            "score": 1.1746176183223724
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00100.jpg",
+            "pitch": 26.579214096069336,
+            "yaw": 1.0331298112869263,
+            "roll": 0.48211389780044556,
+            "score": 1.5152437090873718
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00106.jpg",
+            "pitch": 28.221712112426758,
+            "yaw": 1.3997994661331177,
+            "roll": 0.46295708417892456,
+            "score": 1.8627565503120422
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00110.jpg",
+            "pitch": 29.392305374145508,
+            "yaw": 1.2820897102355957,
+            "roll": 0.1465209722518921,
+            "score": 1.4286106824874878
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00111.jpg",
+            "pitch": 29.841686248779297,
+            "yaw": 1.180178165435791,
+            "roll": 0.09973930567502975,
+            "score": 1.2799174711108208
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00115.jpg",
+            "pitch": 31.26746368408203,
+            "yaw": 1.1956243515014648,
+            "roll": -0.013048412278294563,
+            "score": 1.2086727637797594
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00119.jpg",
+            "pitch": 32.47483444213867,
+            "yaw": 1.0340821743011475,
+            "roll": -0.005764355883002281,
+            "score": 1.0398465301841497
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00122.jpg",
+            "pitch": 33.13731384277344,
+            "yaw": 0.9722238779067993,
+            "roll": -0.036272622644901276,
+            "score": 1.0084965005517006
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00125.jpg",
+            "pitch": 33.8375129699707,
+            "yaw": 1.0789844989776611,
+            "roll": 0.38279229402542114,
+            "score": 1.4617767930030823
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00128.jpg",
+            "pitch": 34.98432159423828,
+            "yaw": 1.350701928138733,
+            "roll": -0.07085083425045013,
+            "score": 1.421552762389183
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00131.jpg",
+            "pitch": 36.488643646240234,
+            "yaw": 1.0553855895996094,
+            "roll": -0.2661370038986206,
+            "score": 1.32152259349823
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00136.jpg",
+            "pitch": 37.198551177978516,
+            "yaw": 1.2531222105026245,
+            "roll": -0.25457069277763367,
+            "score": 1.5076929032802582
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00140.jpg",
+            "pitch": 38.30731964111328,
+            "yaw": 0.6912632584571838,
+            "roll": -0.315378338098526,
+            "score": 1.0066415965557098
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00141.jpg",
+            "pitch": 38.50237274169922,
+            "yaw": 0.7968401312828064,
+            "roll": -0.2691221833229065,
+            "score": 1.065962314605713
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00148.jpg",
+            "pitch": 39.74136734008789,
+            "yaw": 1.4244135618209839,
+            "roll": -0.1679200381040573,
+            "score": 1.5923335999250412
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00160.jpg",
+            "pitch": 41.20335388183594,
+            "yaw": 0.8947281837463379,
+            "roll": 0.2790257930755615,
+            "score": 1.1737539768218994
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00283.jpg",
+            "pitch": 41.57520294189453,
+            "yaw": 0.3377555310726166,
+            "roll": -0.6795969009399414,
+            "score": 1.017352432012558
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00172.jpg",
+            "pitch": 42.712860107421875,
+            "yaw": 0.7028895020484924,
+            "roll": 0.18976549804210663,
+            "score": 0.8926550000905991
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00275.jpg",
+            "pitch": 43.631839752197266,
+            "yaw": 0.24931494891643524,
+            "roll": -0.44654732942581177,
+            "score": 0.695862278342247
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00273.jpg",
+            "pitch": 44.63795852661133,
+            "yaw": -0.004080379847437143,
+            "roll": -0.559360146522522,
+            "score": 0.5634405263699591
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00964.jpg",
+            "pitch": 46.42677307128906,
+            "yaw": 0.9393290281295776,
+            "roll": -0.06320828199386597,
+            "score": 1.0025373101234436
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00192.jpg",
+            "pitch": 47.20006561279297,
+            "yaw": -0.12759478390216827,
+            "roll": -0.12091435492038727,
+            "score": 0.24850913882255554
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00196.jpg",
+            "pitch": 47.570899963378906,
+            "yaw": 0.10959488898515701,
+            "roll": -0.0696009024977684,
+            "score": 0.17919579148292542
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00200.jpg",
+            "pitch": 48.77572250366211,
+            "yaw": 0.08796648681163788,
+            "roll": -0.22071301937103271,
+            "score": 0.3086795061826706
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00205.jpg",
+            "pitch": 50.43655014038086,
+            "yaw": -0.0017027923604473472,
+            "roll": -0.07717704027891159,
+            "score": 0.07887983263935894
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00210.jpg",
+            "pitch": 51.028648376464844,
+            "yaw": 0.017156893387436867,
+            "roll": 0.1133643165230751,
+            "score": 0.13052120991051197
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00234.jpg",
+            "pitch": 52.29722595214844,
+            "yaw": -0.15834824740886688,
+            "roll": -0.12108983099460602,
+            "score": 0.2794380784034729
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00990.jpg",
+            "pitch": 53.16122055053711,
+            "yaw": 0.546562910079956,
+            "roll": 0.852520763874054,
+            "score": 1.39908367395401
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_00998.jpg",
+            "pitch": 54.022647857666016,
+            "yaw": -0.10532321035861969,
+            "roll": 1.0317707061767578,
+            "score": 1.1370939165353775
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01007.jpg",
+            "pitch": 54.60423278808594,
+            "yaw": -0.7981237173080444,
+            "roll": 2.228015184402466,
+            "score": 3.0261389017105103
+        }
+    ],
+    "2": [
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00611.jpg",
+            "pitch": -0.940674901008606,
+            "yaw": -60.75273895263672,
+            "roll": -0.6860626339912415,
+            "score": 1.6267375349998474
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00628.jpg",
+            "pitch": -0.8848745226860046,
+            "yaw": -59.907962799072266,
+            "roll": -0.2929057478904724,
+            "score": 1.177780270576477
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00631.jpg",
+            "pitch": -0.9246612191200256,
+            "yaw": -58.745304107666016,
+            "roll": -0.09758618474006653,
+            "score": 1.0222474038600922
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00633.jpg",
+            "pitch": -1.2217111587524414,
+            "yaw": -57.979286193847656,
+            "roll": -0.2744189202785492,
+            "score": 1.4961300790309906
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00638.jpg",
+            "pitch": -0.2167234718799591,
+            "yaw": -57.0456657409668,
+            "roll": -1.2065305709838867,
+            "score": 1.4232540428638458
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00642.jpg",
+            "pitch": -0.6793290972709656,
+            "yaw": -56.38058853149414,
+            "roll": -1.5201853513717651,
+            "score": 2.1995144486427307
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00645.jpg",
+            "pitch": -0.0697137862443924,
+            "yaw": -55.343963623046875,
+            "roll": -2.4855072498321533,
+            "score": 2.5552210360765457
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00648.jpg",
+            "pitch": 0.3616727888584137,
+            "yaw": -53.570377349853516,
+            "roll": -3.4943506717681885,
+            "score": 3.856023460626602
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00649.jpg",
+            "pitch": -0.4617457091808319,
+            "yaw": -52.54016876220703,
+            "roll": -3.488187789916992,
+            "score": 3.949933499097824
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00652.jpg",
+            "pitch": 0.11567661166191101,
+            "yaw": -51.71681213378906,
+            "roll": -3.581655263900757,
+            "score": 3.697331875562668
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00580.jpg",
+            "pitch": -1.2363338470458984,
+            "yaw": -50.70737075805664,
+            "roll": -2.3926570415496826,
+            "score": 3.628990888595581
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01364.jpg",
+            "pitch": -0.9645786285400391,
+            "yaw": -49.54729080200195,
+            "roll": 1.4415357112884521,
+            "score": 2.406114339828491
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00564.jpg",
+            "pitch": -0.3893418312072754,
+            "yaw": -48.88121795654297,
+            "roll": 0.045117367058992386,
+            "score": 0.4344591982662678
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00561.jpg",
+            "pitch": -0.5928279757499695,
+            "yaw": -48.30945587158203,
+            "roll": -0.1656678318977356,
+            "score": 0.7584958076477051
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01371.jpg",
+            "pitch": 0.0638551265001297,
+            "yaw": -46.90937042236328,
+            "roll": 0.1482929289340973,
+            "score": 0.212148055434227
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01372.jpg",
+            "pitch": -0.2133767306804657,
+            "yaw": -46.31290054321289,
+            "roll": -0.18001045286655426,
+            "score": 0.39338718354701996
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00550.jpg",
+            "pitch": -0.5492560863494873,
+            "yaw": -44.68465805053711,
+            "roll": -0.22829894721508026,
+            "score": 0.7775550335645676
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01375.jpg",
+            "pitch": -0.25627464056015015,
+            "yaw": -44.39069747924805,
+            "roll": -0.5715373754501343,
+            "score": 0.8278120160102844
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00548.jpg",
+            "pitch": -0.6035866737365723,
+            "yaw": -43.163536071777344,
+            "roll": -0.5013256072998047,
+            "score": 1.104912281036377
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00547.jpg",
+            "pitch": -0.7657637000083923,
+            "yaw": -42.33842468261719,
+            "roll": -0.5932520031929016,
+            "score": 1.359015703201294
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01276.jpg",
+            "pitch": 0.5402052402496338,
+            "yaw": -40.77545928955078,
+            "roll": 0.5270115733146667,
+            "score": 1.0672168135643005
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00540.jpg",
+            "pitch": -0.04033784568309784,
+            "yaw": -39.89842987060547,
+            "roll": -0.6397154331207275,
+            "score": 0.6800532788038254
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00535.jpg",
+            "pitch": 0.18828320503234863,
+            "yaw": -38.74519729614258,
+            "roll": -0.533742368221283,
+            "score": 0.7220255732536316
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00533.jpg",
+            "pitch": 0.08064807206392288,
+            "yaw": -38.29904556274414,
+            "roll": -0.7794602513313293,
+            "score": 0.8601083233952522
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01267.jpg",
+            "pitch": 0.9489556550979614,
+            "yaw": -37.48526382446289,
+            "roll": 0.1238589659333229,
+            "score": 1.0728146210312843
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01265.jpg",
+            "pitch": 0.5136862993240356,
+            "yaw": -36.39990997314453,
+            "roll": 0.3984968662261963,
+            "score": 0.9121831655502319
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00525.jpg",
+            "pitch": -0.05709952488541603,
+            "yaw": -35.438045501708984,
+            "roll": -0.5956723690032959,
+            "score": 0.6527718938887119
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00520.jpg",
+            "pitch": -0.011209482327103615,
+            "yaw": -33.666603088378906,
+            "roll": -1.1308069229125977,
+            "score": 1.1420164052397013
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00519.jpg",
+            "pitch": -0.11625934392213821,
+            "yaw": -33.30423355102539,
+            "roll": -0.997771680355072,
+            "score": 1.1140310242772102
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01399.jpg",
+            "pitch": 0.08369666337966919,
+            "yaw": -31.688579559326172,
+            "roll": -0.492724746465683,
+            "score": 0.5764214098453522
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01400.jpg",
+            "pitch": -0.17736557126045227,
+            "yaw": -31.271007537841797,
+            "roll": -0.3102246820926666,
+            "score": 0.4875902533531189
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01402.jpg",
+            "pitch": 1.1118563413619995,
+            "yaw": -29.9642391204834,
+            "roll": -0.7999692559242249,
+            "score": 1.9118255972862244
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01405.jpg",
+            "pitch": 0.9184931516647339,
+            "yaw": -28.58989143371582,
+            "roll": -0.296743243932724,
+            "score": 1.2152363955974579
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01406.jpg",
+            "pitch": 0.896186113357544,
+            "yaw": -28.189373016357422,
+            "roll": -0.08715049922466278,
+            "score": 0.9833366125822067
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01408.jpg",
+            "pitch": 1.3993841409683228,
+            "yaw": -27.14057159423828,
+            "roll": -0.05073598772287369,
+            "score": 1.4501201286911964
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01410.jpg",
+            "pitch": 0.540686309337616,
+            "yaw": -25.928611755371094,
+            "roll": 0.014992717653512955,
+            "score": 0.5556790269911289
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01411.jpg",
+            "pitch": 0.09773218631744385,
+            "yaw": -25.225061416625977,
+            "roll": 0.4737681746482849,
+            "score": 0.5715003609657288
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01412.jpg",
+            "pitch": 0.42205607891082764,
+            "yaw": -24.368118286132812,
+            "roll": 0.5647834539413452,
+            "score": 0.9868395328521729
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01414.jpg",
+            "pitch": 0.4127785563468933,
+            "yaw": -23.03953742980957,
+            "roll": 0.7151942253112793,
+            "score": 1.1279727816581726
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01415.jpg",
+            "pitch": 0.5466572046279907,
+            "yaw": -22.38056755065918,
+            "roll": 0.7916169166564941,
+            "score": 1.3382741212844849
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00745.jpg",
+            "pitch": 1.4042457342147827,
+            "yaw": -20.651762008666992,
+            "roll": -0.16198334097862244,
+            "score": 1.5662290751934052
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00746.jpg",
+            "pitch": 1.1541095972061157,
+            "yaw": -20.312217712402344,
+            "roll": -0.008492783643305302,
+            "score": 1.162602380849421
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00749.jpg",
+            "pitch": 1.2008147239685059,
+            "yaw": -19.21176528930664,
+            "roll": 0.14747574925422668,
+            "score": 1.3482904732227325
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00751.jpg",
+            "pitch": 1.1198285818099976,
+            "yaw": -18.307819366455078,
+            "roll": 0.27783164381980896,
+            "score": 1.3976602256298065
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00753.jpg",
+            "pitch": 1.1489932537078857,
+            "yaw": -17.128437042236328,
+            "roll": 0.4726397693157196,
+            "score": 1.6216330230236053
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01428.jpg",
+            "pitch": 0.3284275531768799,
+            "yaw": -15.629158020019531,
+            "roll": 1.0909781455993652,
+            "score": 1.4194056987762451
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01430.jpg",
+            "pitch": -0.005528702866286039,
+            "yaw": -14.761651992797852,
+            "roll": 1.304890751838684,
+            "score": 1.3104194547049701
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01431.jpg",
+            "pitch": 0.1905214786529541,
+            "yaw": -13.943699836730957,
+            "roll": 1.075508952140808,
+            "score": 1.2660304307937622
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01433.jpg",
+            "pitch": -0.17004753649234772,
+            "yaw": -12.99405288696289,
+            "roll": 0.8921824097633362,
+            "score": 1.062229946255684
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01437.jpg",
+            "pitch": 0.016913650557398796,
+            "yaw": -11.666916847229004,
+            "roll": 0.9008979201316833,
+            "score": 0.9178115706890821
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01440.jpg",
+            "pitch": 0.621087372303009,
+            "yaw": -10.572429656982422,
+            "roll": 0.6378328800201416,
+            "score": 1.2589202523231506
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01442.jpg",
+            "pitch": 0.46735328435897827,
+            "yaw": -9.613677978515625,
+            "roll": 0.5940456986427307,
+            "score": 1.061398983001709
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01443.jpg",
+            "pitch": 0.25981998443603516,
+            "yaw": -9.354500770568848,
+            "roll": 0.6200592517852783,
+            "score": 0.8798792362213135
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01445.jpg",
+            "pitch": 0.8688117861747742,
+            "yaw": -8.415889739990234,
+            "roll": 0.22090838849544525,
+            "score": 1.0897201746702194
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01449.jpg",
+            "pitch": 0.05522036552429199,
+            "yaw": -6.818367004394531,
+            "roll": 0.0064900703728199005,
+            "score": 0.06171043589711189
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01451.jpg",
+            "pitch": 0.39326706528663635,
+            "yaw": -6.220608711242676,
+            "roll": -0.3646981418132782,
+            "score": 0.7579652070999146
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01455.jpg",
+            "pitch": 0.7345548868179321,
+            "yaw": -5.3058180809021,
+            "roll": -0.6566307544708252,
+            "score": 1.3911856412887573
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00437.jpg",
+            "pitch": -0.09417030215263367,
+            "yaw": -4.313119411468506,
+            "roll": 2.01536226272583,
+            "score": 2.1095325648784637
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01466.jpg",
+            "pitch": 1.0764081478118896,
+            "yaw": -3.4445269107818604,
+            "roll": -0.5111681818962097,
+            "score": 1.5875763297080994
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01474.jpg",
+            "pitch": 1.4638432264328003,
+            "yaw": -2.2480356693267822,
+            "roll": -0.03897508606314659,
+            "score": 1.5028183124959469
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01482.jpg",
+            "pitch": 1.310878872871399,
+            "yaw": -0.62580806016922,
+            "roll": 0.09506939351558685,
+            "score": 1.4059482663869858
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01486.jpg",
+            "pitch": 0.7794907093048096,
+            "yaw": 0.05267903208732605,
+            "roll": 0.07064703106880188,
+            "score": 0.8501377403736115
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01491.jpg",
+            "pitch": 0.6740622520446777,
+            "yaw": 0.9465506672859192,
+            "roll": -0.0923464298248291,
+            "score": 0.7664086818695068
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00001.jpg",
+            "pitch": 0.3524205684661865,
+            "yaw": 1.5292402505874634,
+            "roll": 0.49441081285476685,
+            "score": 0.8468313813209534
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01507.jpg",
+            "pitch": 0.5953733325004578,
+            "yaw": 2.7593448162078857,
+            "roll": 0.0956772118806839,
+            "score": 0.6910505443811417
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00407.jpg",
+            "pitch": 0.02515273541212082,
+            "yaw": 3.661897659301758,
+            "roll": 1.8479429483413696,
+            "score": 1.8730956837534904
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00025.jpg",
+            "pitch": 1.4943491220474243,
+            "yaw": 4.784920692443848,
+            "roll": 0.7193261384963989,
+            "score": 2.2136752605438232
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00028.jpg",
+            "pitch": 1.8776652812957764,
+            "yaw": 5.507044315338135,
+            "roll": 0.8162699937820435,
+            "score": 2.69393527507782
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00394.jpg",
+            "pitch": 1.0312089920043945,
+            "yaw": 6.902190685272217,
+            "roll": 2.106599807739258,
+            "score": 3.1378087997436523
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00041.jpg",
+            "pitch": 1.9647817611694336,
+            "yaw": 7.6648783683776855,
+            "roll": 1.710768461227417,
+            "score": 3.6755502223968506
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00045.jpg",
+            "pitch": 2.5798206329345703,
+            "yaw": 8.65874195098877,
+            "roll": 2.024348497390747,
+            "score": 4.604169130325317
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00049.jpg",
+            "pitch": 2.616478681564331,
+            "yaw": 9.671780586242676,
+            "roll": 1.8928654193878174,
+            "score": 4.509344100952148
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01163.jpg",
+            "pitch": 2.6329784393310547,
+            "yaw": 10.936800003051758,
+            "roll": 2.1143996715545654,
+            "score": 4.74737811088562
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00058.jpg",
+            "pitch": 2.239161491394043,
+            "yaw": 12.090813636779785,
+            "roll": 1.9892044067382812,
+            "score": 4.228365898132324
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00059.jpg",
+            "pitch": 1.9991695880889893,
+            "yaw": 12.813265800476074,
+            "roll": 2.0004312992095947,
+            "score": 3.999600887298584
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00061.jpg",
+            "pitch": 1.8621816635131836,
+            "yaw": 13.586935043334961,
+            "roll": 2.243972063064575,
+            "score": 4.106153726577759
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00065.jpg",
+            "pitch": 1.4338257312774658,
+            "yaw": 15.38601016998291,
+            "roll": 2.332087278366089,
+            "score": 3.7659130096435547
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00066.jpg",
+            "pitch": 1.346782922744751,
+            "yaw": 15.83763313293457,
+            "roll": 2.283973217010498,
+            "score": 3.630756139755249
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00068.jpg",
+            "pitch": 1.7844648361206055,
+            "yaw": 16.908933639526367,
+            "roll": 1.9888942241668701,
+            "score": 3.7733590602874756
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00071.jpg",
+            "pitch": 1.9132946729660034,
+            "yaw": 18.479061126708984,
+            "roll": 1.9657200574874878,
+            "score": 3.879014730453491
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01147.jpg",
+            "pitch": 2.103959798812866,
+            "yaw": 19.467174530029297,
+            "roll": 1.1347440481185913,
+            "score": 3.2387038469314575
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01145.jpg",
+            "pitch": 2.186522960662842,
+            "yaw": 20.19208526611328,
+            "roll": 0.9259536862373352,
+            "score": 3.112476646900177
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01144.jpg",
+            "pitch": 2.0609307289123535,
+            "yaw": 20.529815673828125,
+            "roll": 1.1919915676116943,
+            "score": 3.252922296524048
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01142.jpg",
+            "pitch": 2.3770272731781006,
+            "yaw": 21.58064079284668,
+            "roll": 1.5138944387435913,
+            "score": 3.890921711921692
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01140.jpg",
+            "pitch": 2.6109602451324463,
+            "yaw": 22.807113647460938,
+            "roll": 1.6626272201538086,
+            "score": 4.273587465286255
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00091.jpg",
+            "pitch": 2.206744909286499,
+            "yaw": 24.400218963623047,
+            "roll": 1.6434590816497803,
+            "score": 3.8502039909362793
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00094.jpg",
+            "pitch": 1.7311031818389893,
+            "yaw": 25.265913009643555,
+            "roll": 1.5357747077941895,
+            "score": 3.2668778896331787
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00095.jpg",
+            "pitch": 1.6175408363342285,
+            "yaw": 25.59860610961914,
+            "roll": 1.522065281867981,
+            "score": 3.1396061182022095
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00102.jpg",
+            "pitch": 1.7393314838409424,
+            "yaw": 26.81896209716797,
+            "roll": 1.6040290594100952,
+            "score": 3.3433605432510376
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01126.jpg",
+            "pitch": 2.193037748336792,
+            "yaw": 28.0333194732666,
+            "roll": 1.1776643991470337,
+            "score": 3.3707021474838257
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01125.jpg",
+            "pitch": 2.1307740211486816,
+            "yaw": 28.74863052368164,
+            "roll": 1.1797910928726196,
+            "score": 3.3105651140213013
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01122.jpg",
+            "pitch": 2.4890942573547363,
+            "yaw": 29.878408432006836,
+            "roll": 1.3738720417022705,
+            "score": 3.862966299057007
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01120.jpg",
+            "pitch": 3.1421360969543457,
+            "yaw": 30.54410171508789,
+            "roll": 1.7175034284591675,
+            "score": 4.859639525413513
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00121.jpg",
+            "pitch": 2.861582040786743,
+            "yaw": 31.558130264282227,
+            "roll": 2.560291290283203,
+            "score": 5.421873331069946
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00125.jpg",
+            "pitch": 2.9957385063171387,
+            "yaw": 33.229244232177734,
+            "roll": 2.6808784008026123,
+            "score": 5.676616907119751
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01111.jpg",
+            "pitch": 3.333528757095337,
+            "yaw": 33.84588623046875,
+            "roll": 2.072742223739624,
+            "score": 5.406270980834961
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01106.jpg",
+            "pitch": 3.9959473609924316,
+            "yaw": 35.24271774291992,
+            "roll": 2.545535087585449,
+            "score": 6.541482448577881
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01102.jpg",
+            "pitch": 2.5540459156036377,
+            "yaw": 36.282981872558594,
+            "roll": 2.032917022705078,
+            "score": 4.586962938308716
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01097.jpg",
+            "pitch": 2.233159065246582,
+            "yaw": 37.20476531982422,
+            "roll": 2.36141300201416,
+            "score": 4.594572067260742
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01096.jpg",
+            "pitch": 2.4246585369110107,
+            "yaw": 37.83963394165039,
+            "roll": 2.393216848373413,
+            "score": 4.817875385284424
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00154.jpg",
+            "pitch": 1.7607423067092896,
+            "yaw": 39.17405319213867,
+            "roll": 3.1296653747558594,
+            "score": 4.890407681465149
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00160.jpg",
+            "pitch": 0.8748573660850525,
+            "yaw": 40.266231536865234,
+            "roll": 2.665391206741333,
+            "score": 3.5402485728263855
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00162.jpg",
+            "pitch": 0.7358112335205078,
+            "yaw": 40.80816650390625,
+            "roll": 2.536358118057251,
+            "score": 3.272169351577759
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00168.jpg",
+            "pitch": 0.35969558358192444,
+            "yaw": 41.80328369140625,
+            "roll": 2.153679847717285,
+            "score": 2.5133754312992096
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00175.jpg",
+            "pitch": 1.310152292251587,
+            "yaw": 42.54657745361328,
+            "roll": 2.5083446502685547,
+            "score": 3.8184969425201416
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00180.jpg",
+            "pitch": 1.2825872898101807,
+            "yaw": 44.17219161987305,
+            "roll": 2.7382888793945312,
+            "score": 4.020876169204712
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00183.jpg",
+            "pitch": 0.8766149282455444,
+            "yaw": 44.936920166015625,
+            "roll": 3.0692875385284424,
+            "score": 3.945902466773987
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00187.jpg",
+            "pitch": 1.566156268119812,
+            "yaw": 45.5734977722168,
+            "roll": 3.9198157787323,
+            "score": 5.485972046852112
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01071.jpg",
+            "pitch": 2.986215591430664,
+            "yaw": 46.62013244628906,
+            "roll": 3.4295785427093506,
+            "score": 6.415794134140015
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00927.jpg",
+            "pitch": 1.0047112703323364,
+            "yaw": 48.433284759521484,
+            "roll": 4.414925575256348,
+            "score": 5.419636845588684
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00929.jpg",
+            "pitch": 1.0795130729675293,
+            "yaw": 49.08659362792969,
+            "roll": 4.263278007507324,
+            "score": 5.3427910804748535
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00931.jpg",
+            "pitch": 0.5086867213249207,
+            "yaw": 49.97810745239258,
+            "roll": 4.0727715492248535,
+            "score": 4.581458270549774
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00933.jpg",
+            "pitch": 0.9670454859733582,
+            "yaw": 50.87791061401367,
+            "roll": 4.3423004150390625,
+            "score": 5.309345901012421
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00934.jpg",
+            "pitch": 0.5813125371932983,
+            "yaw": 51.671173095703125,
+            "roll": 3.8726484775543213,
+            "score": 4.45396101474762
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00936.jpg",
+            "pitch": 0.016652321442961693,
+            "yaw": 53.05065155029297,
+            "roll": 3.859856605529785,
+            "score": 3.876508926972747
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00937.jpg",
+            "pitch": 0.12254343926906586,
+            "yaw": 53.80467987060547,
+            "roll": 3.743312120437622,
+            "score": 3.865855559706688
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00240.jpg",
+            "pitch": 0.161122128367424,
+            "yaw": 54.97918701171875,
+            "roll": 4.354835510253906,
+            "score": 4.51595763862133
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00236.jpg",
+            "pitch": 0.21822470426559448,
+            "yaw": 55.561771392822266,
+            "roll": 4.502606391906738,
+            "score": 4.720831096172333
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00945.jpg",
+            "pitch": -0.1275329887866974,
+            "yaw": 56.943153381347656,
+            "roll": 4.133880615234375,
+            "score": 4.261413604021072
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00947.jpg",
+            "pitch": 0.8876811265945435,
+            "yaw": 58.08846664428711,
+            "roll": 4.643858909606934,
+            "score": 5.531540036201477
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00953.jpg",
+            "pitch": 1.7102313041687012,
+            "yaw": 59.437103271484375,
+            "roll": 4.518919944763184,
+            "score": 6.229151248931885
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00954.jpg",
+            "pitch": 1.6881983280181885,
+            "yaw": 59.51996994018555,
+            "roll": 4.380087375640869,
+            "score": 6.068285703659058
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01039.jpg",
+            "pitch": 2.960242748260498,
+            "yaw": 61.28262710571289,
+            "roll": 4.03397274017334,
+            "score": 6.994215488433838
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01038.jpg",
+            "pitch": 2.758539915084839,
+            "yaw": 61.71324920654297,
+            "roll": 3.854179620742798,
+            "score": 6.612719535827637
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01036.jpg",
+            "pitch": 2.7352964878082275,
+            "yaw": 62.624053955078125,
+            "roll": 3.9875380992889404,
+            "score": 6.722834587097168
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01024.jpg",
+            "pitch": 2.22137451171875,
+            "yaw": 64.49715423583984,
+            "roll": 3.704111099243164,
+            "score": 5.925485610961914
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_01022.jpg",
+            "pitch": 2.055283308029175,
+            "yaw": 64.50977325439453,
+            "roll": 3.3886826038360596,
+            "score": 5.443965911865234
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\yaw\\frames\\yaw_00996.jpg",
+            "pitch": 3.3885622024536133,
+            "yaw": 65.5380859375,
+            "roll": 4.410557746887207,
+            "score": 7.79911994934082
+        }
+    ],
+    "3": [
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00770.jpg",
+            "pitch": 14.171036720275879,
+            "yaw": 6.247111797332764,
+            "roll": -29.715635299682617,
+            "score": 20.418148517608643
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00777.jpg",
+            "pitch": 14.04558277130127,
+            "yaw": 6.378465175628662,
+            "roll": -29.476154327392578,
+            "score": 20.42404794692993
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00790.jpg",
+            "pitch": 12.492524147033691,
+            "yaw": 7.065993309020996,
+            "roll": -27.569400787353516,
+            "score": 19.558517456054688
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00791.jpg",
+            "pitch": 12.359373092651367,
+            "yaw": 6.96846342086792,
+            "roll": -27.321992874145508,
+            "score": 19.327836513519287
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00158.jpg",
+            "pitch": 9.732891082763672,
+            "yaw": 2.562299966812134,
+            "roll": -25.725566864013672,
+            "score": 12.295191049575806
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00147.jpg",
+            "pitch": 10.138789176940918,
+            "yaw": 2.028358221054077,
+            "roll": -24.521291732788086,
+            "score": 12.167147397994995
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00140.jpg",
+            "pitch": 9.684371948242188,
+            "yaw": 1.39973783493042,
+            "roll": -23.585447311401367,
+            "score": 11.084109783172607
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00135.jpg",
+            "pitch": 8.694584846496582,
+            "yaw": 1.1793409585952759,
+            "roll": -22.54237937927246,
+            "score": 9.873925805091858
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00133.jpg",
+            "pitch": 8.625938415527344,
+            "yaw": 1.0624866485595703,
+            "roll": -22.031858444213867,
+            "score": 9.688425064086914
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00131.jpg",
+            "pitch": 8.661130905151367,
+            "yaw": 1.0770362615585327,
+            "roll": -21.399978637695312,
+            "score": 9.7381671667099
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00122.jpg",
+            "pitch": 7.855875015258789,
+            "yaw": 0.10318946838378906,
+            "roll": -19.515239715576172,
+            "score": 7.959064483642578
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00118.jpg",
+            "pitch": 7.028025150299072,
+            "yaw": -0.609853208065033,
+            "roll": -18.619754791259766,
+            "score": 7.637878358364105
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00117.jpg",
+            "pitch": 6.76684045791626,
+            "yaw": -0.8590631484985352,
+            "roll": -18.465200424194336,
+            "score": 7.625903606414795
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00108.jpg",
+            "pitch": 7.323204040527344,
+            "yaw": -0.15067030489444733,
+            "roll": -16.77492904663086,
+            "score": 7.473874345421791
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00105.jpg",
+            "pitch": 7.7640275955200195,
+            "yaw": 0.1362866312265396,
+            "roll": -16.3284854888916,
+            "score": 7.900314226746559
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00097.jpg",
+            "pitch": 7.760374546051025,
+            "yaw": -0.016889531165361404,
+            "roll": -15.235265731811523,
+            "score": 7.777264077216387
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00092.jpg",
+            "pitch": 8.339250564575195,
+            "yaw": -0.05332282558083534,
+            "roll": -14.396892547607422,
+            "score": 8.39257339015603
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00089.jpg",
+            "pitch": 8.483116149902344,
+            "yaw": -0.6328558921813965,
+            "roll": -13.315484046936035,
+            "score": 9.11597204208374
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00079.jpg",
+            "pitch": 6.89063835144043,
+            "yaw": -1.6103031635284424,
+            "roll": -11.704769134521484,
+            "score": 8.500941514968872
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00075.jpg",
+            "pitch": 6.497980117797852,
+            "yaw": -1.5308011770248413,
+            "roll": -11.159566879272461,
+            "score": 8.028781294822693
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00067.jpg",
+            "pitch": 5.673386096954346,
+            "yaw": -1.731870174407959,
+            "roll": -9.555801391601562,
+            "score": 7.405256271362305
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00063.jpg",
+            "pitch": 4.889531135559082,
+            "yaw": -1.935950756072998,
+            "roll": -8.743700981140137,
+            "score": 6.82548189163208
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00057.jpg",
+            "pitch": 4.0155839920043945,
+            "yaw": -1.7605658769607544,
+            "roll": -7.622554779052734,
+            "score": 5.776149868965149
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00054.jpg",
+            "pitch": 3.643220901489258,
+            "yaw": -1.6829379796981812,
+            "roll": -6.9268083572387695,
+            "score": 5.326158881187439
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00052.jpg",
+            "pitch": 3.557321786880493,
+            "yaw": -1.8472723960876465,
+            "roll": -6.47904634475708,
+            "score": 5.40459418296814
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00046.jpg",
+            "pitch": 3.665555000305176,
+            "yaw": -1.7972980737686157,
+            "roll": -5.209277629852295,
+            "score": 5.4628530740737915
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00041.jpg",
+            "pitch": 3.5630197525024414,
+            "yaw": -2.0196897983551025,
+            "roll": -4.404623508453369,
+            "score": 5.582709550857544
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00032.jpg",
+            "pitch": 3.044468402862549,
+            "yaw": -1.8631993532180786,
+            "roll": -2.6891562938690186,
+            "score": 4.907667756080627
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00026.jpg",
+            "pitch": 2.8405063152313232,
+            "yaw": -1.538779377937317,
+            "roll": -1.666565179824829,
+            "score": 4.37928569316864
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00018.jpg",
+            "pitch": 2.5166914463043213,
+            "yaw": -0.7563546299934387,
+            "roll": -0.563264787197113,
+            "score": 3.27304607629776
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00010.jpg",
+            "pitch": 2.145820379257202,
+            "yaw": 0.0011551441857591271,
+            "roll": 0.44255444407463074,
+            "score": 2.1469755234429613
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00004.jpg",
+            "pitch": 1.6995749473571777,
+            "yaw": 0.13924995064735413,
+            "roll": 1.2021424770355225,
+            "score": 1.8388248980045319
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_01231.jpg",
+            "pitch": -3.7945637702941895,
+            "yaw": 0.9936673045158386,
+            "roll": 2.2175586223602295,
+            "score": 4.788231074810028
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_01294.jpg",
+            "pitch": -0.2124500870704651,
+            "yaw": 0.16258957982063293,
+            "roll": 2.9933714866638184,
+            "score": 0.375039666891098
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_01282.jpg",
+            "pitch": -1.1823805570602417,
+            "yaw": 0.006486906670033932,
+            "roll": 3.6636366844177246,
+            "score": 1.1888674637302756
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_01259.jpg",
+            "pitch": -1.8805676698684692,
+            "yaw": 0.48418864607810974,
+            "roll": 4.504972457885742,
+            "score": 2.364756315946579
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_01163.jpg",
+            "pitch": 1.865073561668396,
+            "yaw": 7.806278228759766,
+            "roll": 5.556674480438232,
+            "score": 9.671351790428162
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00882.jpg",
+            "pitch": 4.8457112312316895,
+            "yaw": 4.518944263458252,
+            "roll": 6.763016223907471,
+            "score": 9.364655494689941
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00884.jpg",
+            "pitch": 4.754212856292725,
+            "yaw": 4.484195232391357,
+            "roll": 7.9937543869018555,
+            "score": 9.238408088684082
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00888.jpg",
+            "pitch": 4.518327713012695,
+            "yaw": 4.299926280975342,
+            "roll": 9.475512504577637,
+            "score": 8.818253993988037
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00890.jpg",
+            "pitch": 4.516845226287842,
+            "yaw": 4.207434177398682,
+            "roll": 10.160811424255371,
+            "score": 8.724279403686523
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00892.jpg",
+            "pitch": 4.416898250579834,
+            "yaw": 4.034450054168701,
+            "roll": 11.021832466125488,
+            "score": 8.451348304748535
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00894.jpg",
+            "pitch": 4.06550407409668,
+            "yaw": 4.5745368003845215,
+            "roll": 12.0863676071167,
+            "score": 8.640040874481201
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00895.jpg",
+            "pitch": 3.964146137237549,
+            "yaw": 4.4250922203063965,
+            "roll": 12.69204044342041,
+            "score": 8.389238357543945
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00896.jpg",
+            "pitch": 4.175111770629883,
+            "yaw": 4.559170246124268,
+            "roll": 13.639039039611816,
+            "score": 8.73428201675415
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00898.jpg",
+            "pitch": 3.890946865081787,
+            "yaw": 5.508676052093506,
+            "roll": 14.735630989074707,
+            "score": 9.399622917175293
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00901.jpg",
+            "pitch": 4.082389831542969,
+            "yaw": 5.6909027099609375,
+            "roll": 15.832869529724121,
+            "score": 9.773292541503906
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00576.jpg",
+            "pitch": 9.095037460327148,
+            "yaw": 2.1294684410095215,
+            "roll": 16.517818450927734,
+            "score": 11.22450590133667
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00378.jpg",
+            "pitch": 10.47107219696045,
+            "yaw": 0.05515424534678459,
+            "roll": 18.299100875854492,
+            "score": 10.526226442307234
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00381.jpg",
+            "pitch": 8.793854713439941,
+            "yaw": 1.3756325244903564,
+            "roll": 18.650367736816406,
+            "score": 10.169487237930298
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00384.jpg",
+            "pitch": 8.598272323608398,
+            "yaw": 2.6718316078186035,
+            "roll": 19.636775970458984,
+            "score": 11.270103931427002
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00388.jpg",
+            "pitch": 9.131494522094727,
+            "yaw": 2.457176923751831,
+            "roll": 20.882375717163086,
+            "score": 11.588671445846558
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00391.jpg",
+            "pitch": 9.171863555908203,
+            "yaw": 2.9304535388946533,
+            "roll": 21.813976287841797,
+            "score": 12.102317094802856
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00395.jpg",
+            "pitch": 10.289109230041504,
+            "yaw": 2.5801312923431396,
+            "roll": 23.272920608520508,
+            "score": 12.869240522384644
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00399.jpg",
+            "pitch": 10.160784721374512,
+            "yaw": 1.5846197605133057,
+            "roll": 24.298171997070312,
+            "score": 11.745404481887817
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00400.jpg",
+            "pitch": 10.083157539367676,
+            "yaw": 1.6378768682479858,
+            "roll": 25.053245544433594,
+            "score": 11.721034407615662
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00404.jpg",
+            "pitch": 8.772793769836426,
+            "yaw": 1.351257085800171,
+            "roll": 25.823040008544922,
+            "score": 10.124050855636597
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00410.jpg",
+            "pitch": 8.377700805664062,
+            "yaw": 2.246100425720215,
+            "roll": 27.396663665771484,
+            "score": 10.623801231384277
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00411.jpg",
+            "pitch": 8.048052787780762,
+            "yaw": 2.550615072250366,
+            "roll": 27.66120147705078,
+            "score": 10.598667860031128
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00418.jpg",
+            "pitch": 7.601397514343262,
+            "yaw": 3.4277358055114746,
+            "roll": 28.70305061340332,
+            "score": 11.029133319854736
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00439.jpg",
+            "pitch": 6.218040943145752,
+            "yaw": 4.969691753387451,
+            "roll": 29.716657638549805,
+            "score": 11.187732696533203
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00461.jpg",
+            "pitch": 6.577849388122559,
+            "yaw": 5.271927356719971,
+            "roll": 31.01871681213379,
+            "score": 11.84977674484253
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00470.jpg",
+            "pitch": 9.379345893859863,
+            "yaw": 4.941710948944092,
+            "roll": 31.573535919189453,
+            "score": 14.321056842803955
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00505.jpg",
+            "pitch": 13.046675682067871,
+            "yaw": 2.2490572929382324,
+            "roll": 32.57930374145508,
+            "score": 15.295732975006104
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00983.jpg",
+            "pitch": 8.200602531433105,
+            "yaw": 9.954472541809082,
+            "roll": 33.61214828491211,
+            "score": 18.155075073242188
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_00991.jpg",
+            "pitch": 9.75098991394043,
+            "yaw": 9.791122436523438,
+            "roll": 34.67996597290039,
+            "score": 19.542112350463867
+        },
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\roll\\frames\\roll_01064.jpg",
+            "pitch": 12.498381614685059,
+            "yaw": 10.012535095214844,
+            "roll": 36.01227951049805,
+            "score": 22.510916709899902
+        }
+    ],
+    "target": [
+        {
+            "img": "D:\\Projects\\python-opencv-test\\photos\\facial_rotation_test\\big_video_test\\me\\pitch\\frames\\pitch_01518.jpg",
+            "pitch": -0.017834370955824852,
+            "yaw": 0.11303157359361649,
+            "roll": 0.1420266032218933,
+            "score": 0.2728925347328186
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+================================================================================
+📹 Processing video: pitch
+================================================================================
+Info:
+Size: 2160x3840
+FPS: 59.81
+Duration: 26.83 секунд
+Frames: 1605
+
+ Processing frames...
+Processing frames: 100%|████████████████████████████████████████████████████████| 1605/1605 [04:14<00:00,  6.31it/s]
+Saved 1605 frames to: D:\Projects\python-opencv-test\photos\facial_rotation_test\big_video_test\me\pitch\frames
+
+================================================================================
+📹 Processing video: yaw
+================================================================================
+Info:
+Size: 2160x3840
+FPS: 59.81
+Duration: 25.83 секунд
+Frames: 1545
+
+ Processing frames...
+Processing frames: 100%|████████████████████████████████████████████████████████| 1545/1545 [04:11<00:00,  6.15it/s]
+Saved 1545 frames to: D:\Projects\python-opencv-test\photos\facial_rotation_test\big_video_test\me\yaw\frames
+
+================================================================================
+📹 Processing video: roll
+================================================================================
+Info:
+Size: 2160x3840
+FPS: 59.81
+Duration: 22.15 секунд
+Frames: 1325
+
+ Processing frames...
+Processing frames: 100%|████████████████████████████████████████████████████████| 1325/1325 [03:44<00:00,  5.91it/s]
+Saved 1325 frames to: D:\Projects\python-opencv-test\photos\facial_rotation_test\big_video_test\me\roll\frames
